@@ -6,7 +6,9 @@ namespace AdventOfCode2024
 	{
 		public static List<Solver> Solvers = [
 			new Day_01(),
-			new Day_02()
+			new Day_02(),
+			new Day_03(),
+			new Day_04(),
 			];
 
 		static void Main(string[] args)
