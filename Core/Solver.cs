@@ -41,7 +41,7 @@
 			}
 		}
 
-		public void WriteSolution(int solution, bool firstPart = true)
+		public void WriteSolution<T>(T solution, bool firstPart = true)
 		{
 			string strPart = firstPart ? "one" : "two";
 			Console.WriteLine("\t****");
