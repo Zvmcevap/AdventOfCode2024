@@ -13,6 +13,7 @@ namespace AdventOfCode2024
 			new Day_06(),
 			new Day_07(),
 			new Day_08(),
+			new Day_09(),
 			];
 
 		static void Main(string[] args)
